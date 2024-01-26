@@ -60,28 +60,28 @@ end)
 ```
 
 <br />
-
-### Examples (Missing the GIFs, sorry ;) )
-
-<details>
-    <summary>Put at beginning / end</summary>
-</details>
-<br />
-
-<details>
-    <summary>Increase / decrease markdown header level</summary>
-</details>
-<br />
-
-<details>
-    <summary><code>vim.ui.input</code> markdown codeblocks</summary>
-</details>
-<br />
-
-<details>
-    <summary>Swap current character with previous / next one</summary>
-</details>
-<br />
+<!---->
+<!-- ### Examples (Missing the GIFs, sorry ;) ) -->
+<!---->
+<!-- <details> -->
+<!--     <summary>Put at beginning / end</summary> -->
+<!-- </details> -->
+<!-- <br /> -->
+<!---->
+<!-- <details> -->
+<!--     <summary>Increase / decrease markdown header level</summary> -->
+<!-- </details> -->
+<!-- <br /> -->
+<!---->
+<!-- <details> -->
+<!--     <summary><code>vim.ui.input</code> markdown codeblocks</summary> -->
+<!-- </details> -->
+<!-- <br /> -->
+<!---->
+<!-- <details> -->
+<!--     <summary>Swap current character with previous / next one</summary> -->
+<!-- </details> -->
+<!-- <br /> -->
 
 
 
